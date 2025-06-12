@@ -1,4 +1,4 @@
-# Manual Sumo Robot
+# Sumo Robot
 
 A manually controlled sumo robot designed and built from the ground up — covering mechanical design, custom electronics, and embedded firmware.
 
@@ -11,50 +11,29 @@ A manually controlled sumo robot designed and built from the ground up — cover
 
 ---
 
-## 🖼️ Real-World Robot Gallery
+## 🧩 CAD Design (Fusion 360)
 
-### 🔹 Front View
-![Front View](media/sumo-bot-front-view.JPG)
+### 🔹 CAD – Front View  
+![CAD Front](media/sumo-bot-cad-design-front-side.png)
 
-### 🔹 Rear View
-![Rear View](media/sumo-bot-rear-view.JPG)
+### 🔹 CAD – Back View  
+![CAD Back](media/sumo-bot-cad-design-back-side.png)
 
-### 🔹 Side View
-![Side View](media/sumo-bot-side-view.JPG)
+### 🔹 CAD – Down View  
+![CAD Down](media/sumo-bot-cad-design-down-side.png)
 
-### 🔹 Top View
-![Top View](media/sumo-bot-top-view.JPG)
+### 🔹 CAD – Electronics Layer  
+![CAD Electronics](media/sumo-bot-cad-design-electronics.png)
 
-### 🔹 Angled View
-![Angled View](media/sumo-bot-angled-view.JPG)
-
-### 🔹 Electronics Overview
-![Electronics](media/sumo-bot-electronics.JPG)
-
-### 🔹 Circuit Close-Up
-![Circuit](media/sumo-bot-circuit.JPG)
-
-### 🔹 Caster Wheel
-![Caster Wheel](media/sumo-bot-caster-wheel.JPG)
+### 🔹 CAD – Wedge Removed  
+![CAD Wedge Removed](media/sumo-bot-cad-design-wedge-removed.png)
 
 ---
 
-## 🧩 CAD Design (Fusion 360)
+## 🖼️ Real-World Robot Gallery
 
-### 🔹 CAD – Front View
-![CAD Front](media/sumo-bot-cad-design-front-side.png)
-
-### 🔹 CAD – Back View
-![CAD Back](media/sumo-bot-cad-design-back-side.png)
-
-### 🔹 CAD – Down View
-![CAD Down](media/sumo-bot-cad-design-down-side.png)
-
-### 🔹 CAD – Electronics Layer
-![CAD Electronics](media/sumo-bot-cad-design-electronics.png)
-
-### 🔹 CAD – Wedge Removed
-![CAD Wedge Removed](media/sumo-bot-cad-design-wedge-removed.png)
+### 🔹 Sumo Robot  
+![Sumo Bot](media/sumo-bot.JPG)
 
 ---
 
@@ -80,3 +59,4 @@ A manually controlled sumo robot designed and built from the ground up — cover
 ## 🤝 Contact
 
 For questions, collaboration, or feedback, feel free to reach out or open an issue in this repo.
+
