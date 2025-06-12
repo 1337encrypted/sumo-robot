@@ -33,16 +33,16 @@ A manually controlled sumo robot designed and built from the ground up — cover
 ## 🖼️ Real-World Robot Gallery
 
 ### 🔹 Sumo Robot  
-![Sumo Bot](media/sumo-bot.JPG)
+![Sumo Bot](media/sumo-bot-.JPG)
 
 ---
 
 ## 🎥 Test Footage
 
-⚠️ *Note: GitHub does not support inline video playback for `.mp4` or `.mov` files. Click below to download or open them in your browser.*
+Watch the robot in action:
 
-- [📹 Test Drive (MP4)](media/sumo-bot-test-drive.MP4)  
-- [📹 Full Test (MOV)](media/sumo-bot-test.MOV)
+- [▶️ Test Drive 1 (YouTube Short)](https://youtube.com/shorts/tEQeGx0Dwz8?feature=share)  
+- [▶️ Test Drive 2 (YouTube Short)](https://youtube.com/shorts/XdukFN9LFL8?feature=share)
 
 ---
 
@@ -52,7 +52,7 @@ A manually controlled sumo robot designed and built from the ground up — cover
 - **Custom PCB** – Circuit design and motor driver integration  
 - **C/C++** – Embedded firmware  
 - **Linux, PlatformIO/Arduino IDE** – Development environment  
-- **Manual wireless control** – (Bluetooth/RF depending on your setup)
+- **Manual wireless control** – (Flysky FS-GT2 2.4GHz 2-channel transmitter/receiver)
 
 ---
 
