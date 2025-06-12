@@ -33,7 +33,7 @@ A manually controlled sumo robot designed and built from the ground up — cover
 ## 🖼️ Real-World Robot Gallery
 
 ### 🔹 Sumo Robot  
-![Sumo Bot](media/sumo-bot-.JPG)
+![Sumo Bot](media/sumo-bot.JPG)
 
 ---
 
